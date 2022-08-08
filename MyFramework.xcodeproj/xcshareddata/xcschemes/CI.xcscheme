@@ -39,6 +39,16 @@
                ReferencedContainer = "container:MyFramework.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1C44FA8628A182C00029D33A"
+               BuildableName = "MyFrameworkE2ETests.xctest"
+               BlueprintName = "MyFrameworkE2ETests"
+               ReferencedContainer = "container:MyFramework.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
